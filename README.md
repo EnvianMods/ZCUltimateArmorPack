@@ -27,7 +27,7 @@ Vader Armor Pack are not in the pack and can be installed with either).
 
 | Mod | Version | Items | Download | Notes |
 |---|---|---:|---|---|
-| Squadrons Armor | 1.0.0 | 117 | [ZCSquadronsArmor-v1.0.0](https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCSquadronsArmor-v1.0.0) | included in the Ultimate pack |
+| Squadrons Armor | 1.0.1 | 117 | [ZCSquadronsArmor-v1.0.1](https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCSquadronsArmor-v1.0.1) | included in the Ultimate pack |
 | Nadayukie Armor | 1.0.1 | 196 | [ZCNadayukie-v1.0.1](https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCNadayukie-v1.0.1) | stand-alone only (not in the Ultimate pack) |
 | Fallen Order Armor (JFO) | 1.0.1 | 120 | [ZCLegionArmorJFO-v1.0.1](https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCLegionArmorJFO-v1.0.1) | included in the Ultimate pack |
 | Clone Legion Armor (Vanilla) | 1.0.0 | 68 | [ZCLegionArmorVanilla-v1.0.0](https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCLegionArmorVanilla-v1.0.0) | included in the Ultimate pack |
