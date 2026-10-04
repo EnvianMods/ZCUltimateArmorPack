@@ -5,7 +5,7 @@
   "author": "Envian",
   "platform": "Steam",
   "gameBuild": "197649",
-  "updated": "2026-10-04T23:29:24Z",
+  "updated": "2026-10-04T23:40:56Z",
   "latest": "v1.0.0",
   "mods": {
     "ZCUltimateArmorPack": {
@@ -111,9 +111,9 @@
     },
     "ZCSquadronsArmor": {
       "name": "Squadrons Armor",
-      "version": "1.0.0",
-      "tag": "ZCSquadronsArmor-v1.0.0",
-      "release": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCSquadronsArmor-v1.0.0",
+      "version": "1.0.1",
+      "tag": "ZCSquadronsArmor-v1.0.1",
+      "release": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCSquadronsArmor-v1.0.1",
       "items": 117,
       "published": true,
       "editions": [
@@ -122,11 +122,11 @@
           "main": false,
           "assets": [
             {
-              "name": "ZCSquadronsArmor_v1.0.0_gfp.zip",
-              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/ZCSquadronsArmor-v1.0.0/ZCSquadronsArmor_v1.0.0_gfp.zip",
-              "size": 671468487,
-              "sha256": "a4d8dde751c43c91f6e46618eff0657f8481587f0d8be35a3e4990245355a0ea",
-              "md5": "d6bd368cf7c746043c33b63e108dbfdc"
+              "name": "ZCSquadronsArmor_v1.0.1_gfp.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/ZCSquadronsArmor-v1.0.1/ZCSquadronsArmor_v1.0.1_gfp.zip",
+              "size": 671450208,
+              "sha256": "8fd371ebd6874d737ddb6bfb7695df22646e8324aeea4550b54455f8e7979e1f",
+              "md5": "21bf3ae9ae07028b875582e7705369e2"
             }
           ],
           "requires": [
