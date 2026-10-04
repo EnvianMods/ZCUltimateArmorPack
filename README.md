@@ -38,8 +38,8 @@ Vader Armor Pack are not in the pack and can be installed with either).
 
 Install with the game closed:
 - **Standalone mods:** with **Mod Command**, or by hand into `SWZeroCompany\Mods\`.
-- **ZCUnlocked add-on editions:** BY HAND ONLY. Copy the zip's `ue4ss` folder into `SWZeroCompany\Binaries\Win64\`. Do not use Mod
-  Command for add-ons yet: it does not support ZC Unlocked add-ons and would put the files in the wrong place.
+- **ZCUnlocked add-on editions:** with [Zero Company Mod Command 1.0.12 or newer](https://github.com/EnvianMods/ZeroCompanyModCommand/releases/tag/v1.9.21), or by hand: copy the zip's `ue4ss` folder
+  into `SWZeroCompany\Binaries\Win64\`. Older Mod Command versions put the add-on files in the wrong place.
 
 Each release's notes have the full steps and the credits.
 
