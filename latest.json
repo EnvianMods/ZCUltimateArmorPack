@@ -1,0 +1,477 @@
+{
+  "schema": 1,
+  "repo": "https://github.com/EnvianMods/ZCUltimateArmorPack",
+  "branch": "main",
+  "author": "Envian",
+  "platform": "Steam",
+  "gameBuild": "197649",
+  "updated": "2026-10-04T16:43:23Z",
+  "latest": "v1.0.0",
+  "mods": {
+    "ZCUltimateArmorPack": {
+      "name": "ZC Ultimate Armor Pack",
+      "version": "1.0.0",
+      "tag": "v1.0.0",
+      "release": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/v1.0.0",
+      "items": 575,
+      "published": true,
+      "editions": [
+        {
+          "edition": "zcunlocked-addon",
+          "main": true,
+          "assets": [
+            {
+              "name": "ZCUltimateArmorPack_ZCUnlockedAddon_v1.0.0_Part1-BF.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/v1.0.0/ZCUltimateArmorPack_ZCUnlockedAddon_v1.0.0_Part1-BF.zip",
+              "size": 1158292967,
+              "sha256": "f58afcc557fd9e01997ec5b0ff2f0046ea72d492e7222ea043a433c41d71201b",
+              "md5": "ef293681f2947fdddb4f64c86f9f8705"
+            },
+            {
+              "name": "ZCUltimateArmorPack_ZCUnlockedAddon_v1.0.0_Part2-Other.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/v1.0.0/ZCUltimateArmorPack_ZCUnlockedAddon_v1.0.0_Part2-Other.zip",
+              "size": 1430463685,
+              "sha256": "2221bf470ce668f23347ff91cc618f1bd6820301b27fbf2969099850b8d5b62c",
+              "md5": "48bc35282bf841d6a645975ac0b717ca"
+            }
+          ],
+          "requires": [
+            {
+              "id": "UE4SS",
+              "name": "UE4SS for Star Wars Zero Company",
+              "by": "Vercadi",
+              "url": "https://www.nexusmods.com/starwarszerocompany/mods/9",
+              "required": true,
+              "note": "install it first"
+            },
+            {
+              "id": "ZCUnlocked",
+              "name": "ZCUnlocked",
+              "by": "SmexyXey",
+              "minVersion": "1.4.73",
+              "required": true,
+              "note": "loads the add-on edition itself; no ZCSDK Runtime needed for the add-on"
+            }
+          ]
+        },
+        {
+          "edition": "standalone",
+          "main": false,
+          "assets": [
+            {
+              "name": "ZCUltimateArmorPack_Standalone_v1.0.0_Part1-BF.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/v1.0.0/ZCUltimateArmorPack_Standalone_v1.0.0_Part1-BF.zip",
+              "size": 1158291349,
+              "sha256": "0d73f32ac834a7cb029b5deb5b242884045e898af75ddb7845e0f5e27b5c5acb",
+              "md5": "71dc6334b9505aad3224a7731ca08f1e"
+            },
+            {
+              "name": "ZCUltimateArmorPack_Standalone_v1.0.0_Part2-Other.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/v1.0.0/ZCUltimateArmorPack_Standalone_v1.0.0_Part2-Other.zip",
+              "size": 1430361646,
+              "sha256": "53c7b30e767278fde77f04985c00614e96dd65808bb32f061bb915a5119f2281",
+              "md5": "ce3aabf7096574ed6ad290d7c45537af"
+            }
+          ],
+          "requires": [
+            {
+              "id": "UE4SS",
+              "name": "UE4SS for Star Wars Zero Company",
+              "by": "Vercadi",
+              "url": "https://www.nexusmods.com/starwarszerocompany/mods/9",
+              "required": true,
+              "note": "install it first"
+            },
+            {
+              "id": "ZCSDKRuntime",
+              "name": "ZCSDK Runtime",
+              "minVersion": "0.12.2",
+              "url": "https://github.com/EnvianMods/ZCSDK-Runtime-Release",
+              "required": true,
+              "note": "lists the new armour parts in the game (registry rescan); install after UE4SS"
+            }
+          ]
+        }
+      ],
+      "contains": [
+        "SWBF2_Armour",
+        "ZCLegionArmorJFO",
+        "ZCLegionArmorVanilla",
+        "ZCSquadronsArmor",
+        "ZCSurvivorArmor"
+      ],
+      "incompatibleWith": [
+        "SWBF2_Armour",
+        "ZCLegionArmorJFO",
+        "ZCLegionArmorVanilla",
+        "ZCSquadronsArmor",
+        "ZCSurvivorArmor"
+      ],
+      "note": "The ZCUnlocked add-on edition is the main download; the standalone edition is the alternative. Never install both editions, and never install the pack beside the individual armour mods it contains."
+    },
+    "ZCSquadronsArmor": {
+      "name": "Squadrons Armor",
+      "version": "1.0.0",
+      "tag": "ZCSquadronsArmor-v1.0.0",
+      "release": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCSquadronsArmor-v1.0.0",
+      "items": 117,
+      "published": true,
+      "editions": [
+        {
+          "edition": "standalone",
+          "main": false,
+          "assets": [
+            {
+              "name": "ZCSquadronsArmor_v1.0.0_gfp.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/ZCSquadronsArmor-v1.0.0/ZCSquadronsArmor_v1.0.0_gfp.zip",
+              "size": 671468487,
+              "sha256": "a4d8dde751c43c91f6e46618eff0657f8481587f0d8be35a3e4990245355a0ea",
+              "md5": "d6bd368cf7c746043c33b63e108dbfdc"
+            }
+          ],
+          "requires": [
+            {
+              "id": "UE4SS",
+              "name": "UE4SS for Star Wars Zero Company",
+              "by": "Vercadi",
+              "url": "https://www.nexusmods.com/starwarszerocompany/mods/9",
+              "required": true,
+              "note": "install it first"
+            },
+            {
+              "id": "ZCSDKRuntime",
+              "name": "ZCSDK Runtime",
+              "minVersion": "0.12.2",
+              "url": "https://github.com/EnvianMods/ZCSDK-Runtime-Release",
+              "required": true,
+              "note": "lists the new armour parts in the game (registry rescan); install after UE4SS"
+            }
+          ]
+        }
+      ],
+      "incompatibleWith": [
+        "ZCUltimateArmorPack"
+      ]
+    },
+    "ZCNadayukie": {
+      "name": "Nadayukie Armor",
+      "version": "1.0.0",
+      "tag": "ZCNadayukie-v1.0.0",
+      "release": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCNadayukie-v1.0.0",
+      "items": 196,
+      "published": true,
+      "editions": [
+        {
+          "edition": "standalone",
+          "main": false,
+          "assets": [
+            {
+              "name": "ZCNadayukie_v1.0.0_gfp.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/ZCNadayukie-v1.0.0/ZCNadayukie_v1.0.0_gfp.zip",
+              "size": 641413313,
+              "sha256": "845371817d7b75eb774d1d12acbdddd265222ee93206e8c448b0ec088f2f55bd",
+              "md5": "b441b42140bf31c98313c313b1e31917"
+            }
+          ],
+          "requires": [
+            {
+              "id": "UE4SS",
+              "name": "UE4SS for Star Wars Zero Company",
+              "by": "Vercadi",
+              "url": "https://www.nexusmods.com/starwarszerocompany/mods/9",
+              "required": true,
+              "note": "install it first"
+            },
+            {
+              "id": "ZCSDKRuntime",
+              "name": "ZCSDK Runtime",
+              "minVersion": "0.12.2",
+              "url": "https://github.com/EnvianMods/ZCSDK-Runtime-Release",
+              "required": true,
+              "note": "lists the new armour parts in the game (registry rescan); install after UE4SS"
+            }
+          ]
+        },
+        {
+          "edition": "zcunlocked-addon",
+          "main": false,
+          "assets": [
+            {
+              "name": "ZCNadayukie_ZCUnlockedAddon_v1.0.0.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/ZCNadayukie-v1.0.0/ZCNadayukie_ZCUnlockedAddon_v1.0.0.zip",
+              "size": 652689425,
+              "sha256": "eab04d8701c05aee8968079b1407853f583ca59145154abe6bd1bd003995e3e1",
+              "md5": "83b9a92853bbe46abbf8fb7fa58182ba"
+            }
+          ],
+          "requires": [
+            {
+              "id": "UE4SS",
+              "name": "UE4SS for Star Wars Zero Company",
+              "by": "Vercadi",
+              "url": "https://www.nexusmods.com/starwarszerocompany/mods/9",
+              "required": true,
+              "note": "install it first"
+            },
+            {
+              "id": "ZCUnlocked",
+              "name": "ZCUnlocked",
+              "by": "SmexyXey",
+              "minVersion": "1.4.73",
+              "required": true,
+              "note": "loads the add-on edition itself; no ZCSDK Runtime needed for the add-on"
+            }
+          ]
+        }
+      ]
+    },
+    "ZCLegionArmorJFO": {
+      "name": "Fallen Order Armor (JFO)",
+      "version": "1.0.0",
+      "tag": "ZCLegionArmorJFO-v1.0.0",
+      "release": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCLegionArmorJFO-v1.0.0",
+      "items": 120,
+      "published": true,
+      "editions": [
+        {
+          "edition": "standalone",
+          "main": false,
+          "assets": [
+            {
+              "name": "ZCLegionArmorJFO_v1.0.0_gfp.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/ZCLegionArmorJFO-v1.0.0/ZCLegionArmorJFO_v1.0.0_gfp.zip",
+              "size": 339167055,
+              "sha256": "18bc0431a40022cec05c8c500cb0ebf2a8e3002eac79932577917f7c08711a6d",
+              "md5": "b64beeac21705d38c4a274cf55e94fc5"
+            }
+          ],
+          "requires": [
+            {
+              "id": "UE4SS",
+              "name": "UE4SS for Star Wars Zero Company",
+              "by": "Vercadi",
+              "url": "https://www.nexusmods.com/starwarszerocompany/mods/9",
+              "required": true,
+              "note": "install it first"
+            },
+            {
+              "id": "ZCSDKRuntime",
+              "name": "ZCSDK Runtime",
+              "minVersion": "0.12.2",
+              "url": "https://github.com/EnvianMods/ZCSDK-Runtime-Release",
+              "required": true,
+              "note": "lists the new armour parts in the game (registry rescan); install after UE4SS"
+            }
+          ]
+        }
+      ],
+      "incompatibleWith": [
+        "ZCUltimateArmorPack"
+      ]
+    },
+    "ZCLegionArmorVanilla": {
+      "name": "Clone Legion Armor (Vanilla)",
+      "version": "1.0.0",
+      "tag": "ZCLegionArmorVanilla-v1.0.0",
+      "release": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCLegionArmorVanilla-v1.0.0",
+      "items": 68,
+      "published": true,
+      "editions": [
+        {
+          "edition": "standalone",
+          "main": false,
+          "assets": [
+            {
+              "name": "ZCLegionArmorVanilla_v1.0.0_gfp.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/ZCLegionArmorVanilla-v1.0.0/ZCLegionArmorVanilla_v1.0.0_gfp.zip",
+              "size": 360262676,
+              "sha256": "26688b5afb0d5521bc2166d1edd2ad439eb202c9e4d882aa256cb02a052826ec",
+              "md5": "477c53a2a5c168dcf246126641598f34"
+            }
+          ],
+          "requires": [
+            {
+              "id": "UE4SS",
+              "name": "UE4SS for Star Wars Zero Company",
+              "by": "Vercadi",
+              "url": "https://www.nexusmods.com/starwarszerocompany/mods/9",
+              "required": true,
+              "note": "install it first"
+            },
+            {
+              "id": "ZCSDKRuntime",
+              "name": "ZCSDK Runtime",
+              "minVersion": "0.12.2",
+              "url": "https://github.com/EnvianMods/ZCSDK-Runtime-Release",
+              "required": true,
+              "note": "lists the new armour parts in the game (registry rescan); install after UE4SS"
+            }
+          ]
+        }
+      ],
+      "incompatibleWith": [
+        "ZCUltimateArmorPack"
+      ]
+    },
+    "SWBF2_Armour": {
+      "name": "SWBF2 Armour",
+      "version": "1.0.0",
+      "tag": "SWBF2_Armour-v1.0.0",
+      "release": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/SWBF2_Armour-v1.0.0",
+      "items": 263,
+      "published": true,
+      "editions": [
+        {
+          "edition": "standalone",
+          "main": false,
+          "assets": [
+            {
+              "name": "SWBF2_Armour_v1.0.0_gfp.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/SWBF2_Armour-v1.0.0/SWBF2_Armour_v1.0.0_gfp.zip",
+              "size": 1142571317,
+              "sha256": "e1608914753bf45253d56127152b9afcf0f79e2096d4f1deb50768f1e19ab1b9",
+              "md5": "3a71010ed18c8b30b080f6825f513a6c"
+            }
+          ],
+          "requires": [
+            {
+              "id": "UE4SS",
+              "name": "UE4SS for Star Wars Zero Company",
+              "by": "Vercadi",
+              "url": "https://www.nexusmods.com/starwarszerocompany/mods/9",
+              "required": true,
+              "note": "install it first"
+            },
+            {
+              "id": "ZCSDKRuntime",
+              "name": "ZCSDK Runtime",
+              "minVersion": "0.12.2",
+              "url": "https://github.com/EnvianMods/ZCSDK-Runtime-Release",
+              "required": true,
+              "note": "lists the new armour parts in the game (registry rescan); install after UE4SS"
+            }
+          ]
+        }
+      ],
+      "incompatibleWith": [
+        "ZCUltimateArmorPack"
+      ]
+    },
+    "ZCSurvivorArmor": {
+      "name": "Jedi Survivor Armor",
+      "version": "1.0.0",
+      "tag": "ZCSurvivorArmor-v1.0.0",
+      "release": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCSurvivorArmor-v1.0.0",
+      "items": 7,
+      "published": true,
+      "editions": [
+        {
+          "edition": "standalone",
+          "main": false,
+          "assets": [
+            {
+              "name": "ZCSurvivorArmor_v1.0.0_gfp.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/ZCSurvivorArmor-v1.0.0/ZCSurvivorArmor_v1.0.0_gfp.zip",
+              "size": 42649060,
+              "sha256": "628cf9b8067654b0290b3e35bef4934aec687c0e276d2d393060ddd8d689ca9a",
+              "md5": "cd6990147ce4417cc389b2ac0598d105"
+            }
+          ],
+          "requires": [
+            {
+              "id": "UE4SS",
+              "name": "UE4SS for Star Wars Zero Company",
+              "by": "Vercadi",
+              "url": "https://www.nexusmods.com/starwarszerocompany/mods/9",
+              "required": true,
+              "note": "install it first"
+            },
+            {
+              "id": "ZCSDKRuntime",
+              "name": "ZCSDK Runtime",
+              "minVersion": "0.12.2",
+              "url": "https://github.com/EnvianMods/ZCSDK-Runtime-Release",
+              "required": true,
+              "note": "lists the new armour parts in the game (registry rescan); install after UE4SS"
+            }
+          ]
+        }
+      ],
+      "incompatibleWith": [
+        "ZCUltimateArmorPack"
+      ]
+    },
+    "ZCUltimateVaderArmorPack": {
+      "name": "ZC Ultimate Vader Armor Pack",
+      "version": "1.0.0",
+      "tag": "ZCUltimateVaderArmorPack-v1.0.0",
+      "release": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCUltimateVaderArmorPack-v1.0.0",
+      "items": 12,
+      "published": true,
+      "editions": [
+        {
+          "edition": "standalone",
+          "main": false,
+          "assets": [
+            {
+              "name": "ZCUltimateVaderArmorPack_v1.0.0_gfp.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/ZCUltimateVaderArmorPack-v1.0.0/ZCUltimateVaderArmorPack_v1.0.0_gfp.zip",
+              "size": 68636520,
+              "sha256": "5ec49b6d1a6f2be26091300ca00eb1944c47e12ea6556e974fb80cdd99666cca",
+              "md5": "e2b7c48d10aac5b604abb48b5c8fa551"
+            }
+          ],
+          "requires": [
+            {
+              "id": "UE4SS",
+              "name": "UE4SS for Star Wars Zero Company",
+              "by": "Vercadi",
+              "url": "https://www.nexusmods.com/starwarszerocompany/mods/9",
+              "required": true,
+              "note": "install it first"
+            },
+            {
+              "id": "ZCSDKRuntime",
+              "name": "ZCSDK Runtime",
+              "minVersion": "0.12.2",
+              "url": "https://github.com/EnvianMods/ZCSDK-Runtime-Release",
+              "required": true,
+              "note": "lists the new armour parts in the game (registry rescan); install after UE4SS"
+            }
+          ]
+        },
+        {
+          "edition": "zcunlocked-addon",
+          "main": false,
+          "assets": [
+            {
+              "name": "ZCUltimateVaderArmorPack_ZCUnlockedAddon_v1.0.0.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/ZCUltimateVaderArmorPack-v1.0.0/ZCUltimateVaderArmorPack_ZCUnlockedAddon_v1.0.0.zip",
+              "size": 69427513,
+              "sha256": "25c323b74700ef2d4db63d8d51e8bfcd1190cdeb778303537dbba19e16df0964",
+              "md5": "aaddef71c809145dd1add7f792c7ce83"
+            }
+          ],
+          "requires": [
+            {
+              "id": "UE4SS",
+              "name": "UE4SS for Star Wars Zero Company",
+              "by": "Vercadi",
+              "url": "https://www.nexusmods.com/starwarszerocompany/mods/9",
+              "required": true,
+              "note": "install it first"
+            },
+            {
+              "id": "ZCUnlocked",
+              "name": "ZCUnlocked",
+              "by": "SmexyXey",
+              "minVersion": "1.4.73",
+              "required": true,
+              "note": "loads the add-on edition itself; no ZCSDK Runtime needed for the add-on"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
