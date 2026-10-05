@@ -9,7 +9,7 @@ All downloads are on the [Releases](../../releases) page. Nexus: coming soon.
 Five armor mods in one download: SWBF2 Armor, Jedi Survivor Armor, Squadrons Armor, Fallen Order Armor (JFO) and Clone Legion Armor
 (Vanilla). Each mod inside it installs as its own mod.
 
-The **ZCUnlocked add-on edition** (the main download) is coming soon; the standalone edition is available now. The two editions hold the same armor:
+The **ZCUnlocked add-on edition** is the main download. The two editions hold the same armor:
 
 | Edition | What to download | Requires |
 |---|---|---|
@@ -27,7 +27,13 @@ Vader Armor Pack are not in the pack and can be installed with either).
 
 | Mod | Version | Items | Download | Notes |
 |---|---|---:|---|---|
-| (coming soon) | | | | |
+| Squadrons Armor | 1.0.2 | 117 | [ZCSquadronsArmor-v1.0.2](https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCSquadronsArmor-v1.0.2) | included in the Ultimate pack |
+| Nadayukie Armor | 1.0.1 | 196 | [ZCNadayukie-v1.0.1](https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCNadayukie-v1.0.1) | stand-alone only (not in the Ultimate pack) |
+| Fallen Order Armor (JFO) | 1.0.1 | 120 | [ZCLegionArmorJFO-v1.0.1](https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCLegionArmorJFO-v1.0.1) | included in the Ultimate pack |
+| Clone Legion Armor (Vanilla) | 1.0.0 | 68 | [ZCLegionArmorVanilla-v1.0.0](https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCLegionArmorVanilla-v1.0.0) | included in the Ultimate pack |
+| SWBF2 Armour | 1.0.0 | 263 | [SWBF2_Armour-v1.0.0](https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/SWBF2_Armour-v1.0.0) | included in the Ultimate pack |
+| Jedi Survivor Armor | 1.0.0 | 7 | [ZCSurvivorArmor-v1.0.0](https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCSurvivorArmor-v1.0.0) | included in the Ultimate pack |
+| ZC Ultimate Vader Armor Pack | 1.0.0 | 12 | [ZCUltimateVaderArmorPack-v1.0.0](https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCUltimateVaderArmorPack-v1.0.0) | stand-alone only (not in the Ultimate pack) |
 
 ## Requirements
 1. **UE4SS for Star Wars Zero Company** ([Nexus mod 9](https://www.nexusmods.com/starwarszerocompany/mods/9), by Vercadi). Install it first.
