@@ -5,7 +5,7 @@
   "author": "Envian",
   "platform": "Steam",
   "gameBuild": "197649",
-  "updated": "2026-10-05T04:50:17Z",
+  "updated": "2026-10-06T01:30:57Z",
   "latest": "v1.0.0",
   "mods": {
     "ZCUltimateArmorPack": {
@@ -270,10 +270,10 @@
       ]
     },
     "ZCLegionArmorVanilla": {
-      "name": "Clone Legion Armor (Vanilla)",
-      "version": "1.0.0",
-      "tag": "ZCLegionArmorVanilla-v1.0.0",
-      "release": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCLegionArmorVanilla-v1.0.0",
+      "name": "Clone Legion Armor (Stock)",
+      "version": "1.0.1",
+      "tag": "ZCLegionArmorVanilla-v1.0.1",
+      "release": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCLegionArmorVanilla-v1.0.1",
       "items": 68,
       "published": true,
       "editions": [
@@ -282,11 +282,11 @@
           "main": false,
           "assets": [
             {
-              "name": "ZCLegionArmorVanilla_v1.0.0_gfp.zip",
-              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/ZCLegionArmorVanilla-v1.0.0/ZCLegionArmorVanilla_v1.0.0_gfp.zip",
-              "size": 360262676,
-              "sha256": "26688b5afb0d5521bc2166d1edd2ad439eb202c9e4d882aa256cb02a052826ec",
-              "md5": "477c53a2a5c168dcf246126641598f34"
+              "name": "ZCLegionArmorVanilla_v1.0.1_gfp.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/ZCLegionArmorVanilla-v1.0.1/ZCLegionArmorVanilla_v1.0.1_gfp.zip",
+              "size": 355742122,
+              "sha256": "0a920c8f174b313a5c61575910c03ef6d3c64ef386396075334bc9a9aad5b413",
+              "md5": "12279f055a201d4f9667245458b1793b"
             }
           ],
           "requires": [
