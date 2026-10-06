@@ -5,7 +5,7 @@
   "author": "Envian",
   "platform": "Steam",
   "gameBuild": "197649",
-  "updated": "2026-10-06T01:30:57Z",
+  "updated": "2026-10-06T06:39:37Z",
   "latest": "v1.0.0",
   "mods": {
     "ZCUltimateArmorPack": {
@@ -227,9 +227,9 @@
     },
     "ZCLegionArmorJFO": {
       "name": "Fallen Order Armor (JFO)",
-      "version": "1.0.1",
-      "tag": "ZCLegionArmorJFO-v1.0.1",
-      "release": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCLegionArmorJFO-v1.0.1",
+      "version": "1.0.2",
+      "tag": "ZCLegionArmorJFO-v1.0.2",
+      "release": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCLegionArmorJFO-v1.0.2",
       "items": 120,
       "published": true,
       "editions": [
@@ -238,11 +238,11 @@
           "main": false,
           "assets": [
             {
-              "name": "ZCLegionArmorJFO_v1.0.1_gfp.zip",
-              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/ZCLegionArmorJFO-v1.0.1/ZCLegionArmorJFO_v1.0.1_gfp.zip",
-              "size": 339154280,
-              "sha256": "b422f9e5d405464e79af0844a3bd389d0be378255f21319536113118b6da7771",
-              "md5": "f0e80beea8e05aeba7d52e4cec148f29"
+              "name": "ZCLegionArmorJFO_v1.0.2_gfp.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/ZCLegionArmorJFO-v1.0.2/ZCLegionArmorJFO_v1.0.2_gfp.zip",
+              "size": 321788340,
+              "sha256": "29bd5196988576fc3a4b1482cc1e31da82c1aed227d087ccfc17b9f3d3de6171",
+              "md5": "6355de89731775ec8d17322216083117"
             }
           ],
           "requires": [
