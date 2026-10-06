@@ -5,14 +5,14 @@
   "author": "Envian",
   "platform": "Steam",
   "gameBuild": "197649",
-  "updated": "2026-10-06T06:39:37Z",
+  "updated": "2026-10-06T07:22:30Z",
   "latest": "v1.0.0",
   "mods": {
     "ZCUltimateArmorPack": {
       "name": "ZC Ultimate Armor Pack",
-      "version": "1.0.0",
-      "tag": "v1.0.0",
-      "release": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/v1.0.0",
+      "version": "1.0.1",
+      "tag": "v1.0.1",
+      "release": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/v1.0.1",
       "items": 575,
       "published": true,
       "editions": [
@@ -21,18 +21,18 @@
           "main": true,
           "assets": [
             {
-              "name": "ZCUltimateArmorPack_ZCUnlockedAddon_v1.0.0_Part1-BF.zip",
-              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/v1.0.0/ZCUltimateArmorPack_ZCUnlockedAddon_v1.0.0_Part1-BF.zip",
-              "size": 1158292967,
-              "sha256": "f58afcc557fd9e01997ec5b0ff2f0046ea72d492e7222ea043a433c41d71201b",
-              "md5": "ef293681f2947fdddb4f64c86f9f8705"
+              "name": "ZCUltimateArmorPack_ZCUnlockedAddon_v1.0.1_Part1-BF.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/v1.0.1/ZCUltimateArmorPack_ZCUnlockedAddon_v1.0.1_Part1-BF.zip",
+              "size": 1149569589,
+              "sha256": "033f6638020212330153f415d73e08108d884e806e2db9dc11344d77ed0dfec4",
+              "md5": "cf0eeedbf31bb2f2f7f607c504b5666a"
             },
             {
-              "name": "ZCUltimateArmorPack_ZCUnlockedAddon_v1.0.0_Part2-Other.zip",
-              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/v1.0.0/ZCUltimateArmorPack_ZCUnlockedAddon_v1.0.0_Part2-Other.zip",
-              "size": 1430463685,
-              "sha256": "2221bf470ce668f23347ff91cc618f1bd6820301b27fbf2969099850b8d5b62c",
-              "md5": "48bc35282bf841d6a645975ac0b717ca"
+              "name": "ZCUltimateArmorPack_ZCUnlockedAddon_v1.0.1_Part2-Other.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/v1.0.1/ZCUltimateArmorPack_ZCUnlockedAddon_v1.0.1_Part2-Other.zip",
+              "size": 1400605454,
+              "sha256": "80f1f46e0f7b2d3e9276cf5667bd8d881461884a03f99f5c2f8c53a53fc497b8",
+              "md5": "e0a6a04b3b54f9377e52c4912cf55097"
             }
           ],
           "requires": [
@@ -59,18 +59,18 @@
           "main": false,
           "assets": [
             {
-              "name": "ZCUltimateArmorPack_Standalone_v1.0.0_Part1-BF.zip",
-              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/v1.0.0/ZCUltimateArmorPack_Standalone_v1.0.0_Part1-BF.zip",
-              "size": 1158291349,
-              "sha256": "0d73f32ac834a7cb029b5deb5b242884045e898af75ddb7845e0f5e27b5c5acb",
-              "md5": "71dc6334b9505aad3224a7731ca08f1e"
+              "name": "ZCUltimateArmorPack_Standalone_v1.0.1_Part1-BF.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/v1.0.1/ZCUltimateArmorPack_Standalone_v1.0.1_Part1-BF.zip",
+              "size": 1149492826,
+              "sha256": "79cb9d7dedb999d46152c4b800e4045831a0cf00e16e4e9241c491a5b29ca8f1",
+              "md5": "b0add01292d01c6efc865b9100113388"
             },
             {
-              "name": "ZCUltimateArmorPack_Standalone_v1.0.0_Part2-Other.zip",
-              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/v1.0.0/ZCUltimateArmorPack_Standalone_v1.0.0_Part2-Other.zip",
-              "size": 1430361646,
-              "sha256": "53c7b30e767278fde77f04985c00614e96dd65808bb32f061bb915a5119f2281",
-              "md5": "ce3aabf7096574ed6ad290d7c45537af"
+              "name": "ZCUltimateArmorPack_Standalone_v1.0.1_Part2-Other.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/v1.0.1/ZCUltimateArmorPack_Standalone_v1.0.1_Part2-Other.zip",
+              "size": 1400345605,
+              "sha256": "6f2f4bb27c1f009b01bc50887fc2a6f60f939b96adfae9393286d4e893798020",
+              "md5": "1b8329e4a1923e32e86749d317d0ba89"
             }
           ],
           "requires": [
@@ -314,10 +314,10 @@
       ]
     },
     "SWBF2_Armour": {
-      "name": "SWBF2 Armour",
-      "version": "1.0.0",
-      "tag": "SWBF2_Armour-v1.0.0",
-      "release": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/SWBF2_Armour-v1.0.0",
+      "name": "Battlefront II Armor",
+      "version": "1.0.1",
+      "tag": "SWBF2_Armour-v1.0.1",
+      "release": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/SWBF2_Armour-v1.0.1",
       "items": 263,
       "published": true,
       "editions": [
@@ -326,11 +326,11 @@
           "main": false,
           "assets": [
             {
-              "name": "SWBF2_Armour_v1.0.0_gfp.zip",
-              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/SWBF2_Armour-v1.0.0/SWBF2_Armour_v1.0.0_gfp.zip",
-              "size": 1142571317,
-              "sha256": "e1608914753bf45253d56127152b9afcf0f79e2096d4f1deb50768f1e19ab1b9",
-              "md5": "3a71010ed18c8b30b080f6825f513a6c"
+              "name": "SWBF2_Armour_v1.0.1_gfp.zip",
+              "url": "https://github.com/EnvianMods/ZCUltimateArmorPack/releases/download/SWBF2_Armour-v1.0.1/SWBF2_Armour_v1.0.1_gfp.zip",
+              "size": 1133643303,
+              "sha256": "f68e33a946abc5f5d7b70bb85c6c92cfbfab7fdaa6734904f4af3437e1d005f1",
+              "md5": "a641a79d02b39f9cf85a91b9037804c2"
             }
           ],
           "requires": [
