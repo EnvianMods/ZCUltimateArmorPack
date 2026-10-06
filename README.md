@@ -30,7 +30,7 @@ Vader Armor Pack are not in the pack and can be installed with either).
 | Squadrons Armor | 1.0.2 | 117 | [ZCSquadronsArmor-v1.0.2](https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCSquadronsArmor-v1.0.2) | included in the Ultimate pack |
 | Nadayukie Armor | 1.0.1 | 196 | [ZCNadayukie-v1.0.1](https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCNadayukie-v1.0.1) | stand-alone only (not in the Ultimate pack) |
 | Fallen Order Armor (JFO) | 1.0.1 | 120 | [ZCLegionArmorJFO-v1.0.1](https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCLegionArmorJFO-v1.0.1) | included in the Ultimate pack |
-| Clone Legion Armor (Vanilla) | 1.0.0 | 68 | [ZCLegionArmorVanilla-v1.0.0](https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCLegionArmorVanilla-v1.0.0) | included in the Ultimate pack |
+| Clone Legion Armor (Stock) | 1.0.1 | 68 | [ZCLegionArmorVanilla-v1.0.1](https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCLegionArmorVanilla-v1.0.1) | included in the Ultimate pack |
 | SWBF2 Armour | 1.0.0 | 263 | [SWBF2_Armour-v1.0.0](https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/SWBF2_Armour-v1.0.0) | included in the Ultimate pack |
 | Jedi Survivor Armor | 1.0.0 | 7 | [ZCSurvivorArmor-v1.0.0](https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCSurvivorArmor-v1.0.0) | included in the Ultimate pack |
 | ZC Ultimate Vader Armor Pack | 1.0.0 | 12 | [ZCUltimateVaderArmorPack-v1.0.0](https://github.com/EnvianMods/ZCUltimateArmorPack/releases/tag/ZCUltimateVaderArmorPack-v1.0.0) | stand-alone only (not in the Ultimate pack) |
